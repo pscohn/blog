@@ -1,0 +1,4 @@
+baseURL = "https://paulcohn.net/"
+languageCode = "en-us"
+title = "Paul Cohn | Software Engineer"
+theme = "minimo"
