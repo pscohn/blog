@@ -1,4 +1,13 @@
-baseURL = "https://paulcohn.net/"
+baseURL = "http://paulcohn.net/"
 languageCode = "en-us"
-title = "Paul Cohn | Software Engineer"
+title = "Paul Cohn"
 theme = "minimo"
+
+[author.social]
+  twitter = "paulsterr"
+  github = "pscohn"
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
